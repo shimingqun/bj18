@@ -1,0 +1,3 @@
+[submodule "robot0"]
+	path = robot0
+	url = git@github.com:shimingqun/robot0.git
